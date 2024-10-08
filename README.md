@@ -25,4 +25,4 @@ LISTA DE TAREFAS
 Num|Nome|Nota
 ---|---|---
 001 | Adrio R. | 7,0
-002 | Ruy Pratini
+002 | Ruy Pratini | 7,0
